@@ -1,0 +1,42 @@
+
+.header2 {
+	height: 25px;
+	background-color: #b519194a;
+	text-align: center;
+	padding: 8px;
+	font-family: 500;
+	position: fixed;
+}
+
+.header3 {
+	height: 25px;
+	background-color: #b519194a;
+	text-align: center;
+	padding: 8px;
+	font-family: 500;
+	position: fixed;
+	right: 0%;
+}
+
+.menu {
+	display: flex;
+	flex-flow: row;
+	list-style-type: none;
+	margin: 0 auto;
+	justify-content: space-around;
+}
+
+.menu1 {
+	display: flex;
+	flex-flow: row;
+	list-style-type: none;
+	margin: 0 auto;
+	justify-content: space-around;
+
+}
+
+.mmm {
+	display: block;
+	margin-right: 10px;
+}
+	
